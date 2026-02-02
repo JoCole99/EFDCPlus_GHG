@@ -11,5 +11,4 @@ Ph.D. Student, Khalifa University, United Arab Emirates
 This repository includes only the GHG-related core modules.
 
 For access to the complete EFDCPlus source code and the full coupled model, please contact:
-Prof. Zhifeng Yan  
-Email: yanzf17@tju.edu.cn
+Prof. Zhifeng Yan (Email: yanzf17@tju.edu.cn)
